@@ -11,6 +11,6 @@ Lives: Start with 3 lives; losing all lives will result in a game over.
 Installation
 Clone the repository and open index.html in your preferred browser to start playing:
 
-git clone 
+git clone git@github.com:basmahsalmann/make-your-game.git
 cd space-invaders
 open index.html
